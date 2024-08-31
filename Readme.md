@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu projeto de gerador de senhas em Python usando `customtkinter` e `pyperclip`. Sinta-se à vontade para ajustar conforme necessário:
-
----
 
 # Gerador de Senhas em Python
 
